@@ -1,7 +1,7 @@
 # python-calculator
 calculator code in python
 
-this is just a calculator source, like JUST A calculator
+this is just a calculator source(both of them), like JUST A calculator
 what i mean by that: it closes right after you enter the numbers and sign,
 it doesnt have anything but the calculator script so its cynda useless.
 
