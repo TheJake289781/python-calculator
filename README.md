@@ -1,9 +1,9 @@
 # python-calculator
 calculator code in python
 
-this is just a calculator source(both of them), like JUST A calculator
+this is just a calculator source(both of them), like there JUST calculators
 what i mean by that: it closes right after you enter the numbers and sign,
-it doesnt have anything but the calculator script so its cynda useless.
+it doesnt have anything but the calculator script so its kinda useless. kinda
 
 i just put it here for the people that dont want to look up how to make one so yeh
 dont hate on it bc yeh i dont want it bc hate uhh... is annoying so yeh
@@ -21,4 +21,4 @@ and yeah also bc python is pretty easy and im bored if i didnt say that yet
 so yeh thats this i guess dont know why you read this but you did i guess
 if you want to start programming then dont look here bc i cant either
 
-                     Anyways GoodBye
+                        Anyways GoodBye
