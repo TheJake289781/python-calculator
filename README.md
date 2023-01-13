@@ -1,5 +1,6 @@
 # python-calculator
 calculators coded in python
+and yes thes are both made by me
 
 this is just a calculator source(both of them), like there JUST calculators
 what i mean by that: it closes right after you enter the numbers and sign,
