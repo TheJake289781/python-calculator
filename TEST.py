@@ -1,15 +1,12 @@
-num1 = input("Enter The First Number ->")
-num2 = input("Enter The Sign ->")
-num3 = input("Enter The Second Number ->")
 
-if num2 == "*":
-    print(num1 * num3)
+plus_or_times = input("+ or x or :? ")
 
-if num2 == "+":
-    print(num1 + num3)
+num1 = input("enter any number and press enter: ")
+num2 = input("enter another number and press enter: ")
 
-if num2 == "-":
-    print(num1 - num3)
-
-if num2 == "/":
-    print(num1 / num3)
+if plus_or_times == 'x': ans = float(num1) * float(num2)
+if plus_or_times == '+': anwser: int = float(num1) + float(num2)
+if plus_or_times == ':': answ: int = float(num1) // float(num2)
+if plus_or_times == ':': print(answ)
+if plus_or_times == '+': print(anwser)
+if plus_or_times == 'x': print(ans)
