@@ -1,5 +1,5 @@
 # python-calculator
-calculator code in python
+calculators coded in python
 
 this is just a calculator source(both of them), like there JUST calculators
 what i mean by that: it closes right after you enter the numbers and sign,
@@ -17,6 +17,10 @@ im just bored so yeah if yu want it take it if you dont then dont take it really
 i also kinda made it just bc im learning(i might learn a diff one well i already kinda am) and im just doing this to test stuff so yeah
 and yeah also bc python is pretty easy and im bored if i didnt say that yet
 
+the calculators do the exact same but the code is just a lil different
+but they both work the same so dont worry about that
+now this is not a full thing bc you ca just go on your browser and search: 'calculator' and you will find a working one
+sometimes built-in this is just for if you idk actually but yeah
 
 so yeh thats this i guess dont know why you read this but you did i guess
 if you want to start programming then dont look here bc i cant either
