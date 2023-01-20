@@ -1,6 +1,6 @@
 
 num1 = input("enter a number = ") # allows you to enter a number(need to press enter)
-sign = input("enter: +, x, : = ") # allows you  to enter a sign pretty obvious
+sign = input("enter: +, x, :, -? = ") # allows you  to enter a sign pretty obvious
 num2 = input("enter another number = ") # the same as the first line said
 
 if sign == '+': # if + is pressed then add your numbers to eachother
@@ -11,3 +11,6 @@ if sign == 'x': # if x is pressed then multiply your numbers
 
 if sign == ':': # if : is pressed then divide your numbers
     print(float(num1) / float(num2)) # the slash = divide, divides  
+    
+if sign == '-': # if - is pressed then it removes num2 from num1
+    print(float(num1) - float(num2)) # the - is obvious
