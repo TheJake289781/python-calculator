@@ -6,7 +6,7 @@ this is just a calculator source(both of them), like there JUST calculators
 what i mean by that: it closes right after you enter the numbers and sign,
 it doesnt have anything but the calculator script so its kinda useless. kinda
 just so yall know 'TEST' is ust really messy and pretty unnessesary and 'calculator' is a little less messy
-but they still do the same thing. these calculators are for: plus, times and for dividing math questions
+but they still do the same thing. these calculators are for: plus, times, minus and for dividing math questions
 and can do equasions like = '1.5 + 5.3' just make sure you dont use a comma instead use a dot i just dont feel like making it a comma
 (dots be built in so yeah why not right?)
 
